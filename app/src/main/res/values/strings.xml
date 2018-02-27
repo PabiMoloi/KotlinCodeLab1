@@ -5,4 +5,5 @@
     <string name="toast">Toast</string>
     <string name="count">Count</string>
     <string name="random">Random</string>
+    <string name="random_heading">Here is a randorm number between 0 and %1d</string>
 </resources>
